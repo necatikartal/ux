@@ -11,34 +11,26 @@
 * [Why wireframes should be left to die](http://www.creativebloq.com/netmag/why-wireframes-should-be-left-die-31411165/) (creativebloq.com)
 * [HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes/), Brad Frost
 * [Designing in the Browser: An Efficient Route to Responsive Design](http://www.usabilityprofessionals.org/uxmagazine/designing-in-the-browser/) (usabilityprofessionals.org)
-* [Introduction to Prototyping](http://www.hugeinc.com/ideas/perspective/prototyping) (hugeinc.com)
+* [Introduction to Prototyping](http://www.hugeinc.com/ideas/perspective/prototyping/) (hugeinc.com)
+* [Prototyping Tools and Process](https://medium.com/greylock-perspectives/prototyping-tools-and-process-ab63831f8486/) Survey results from design teams at Medium, Airbnb, Uber, Apple, Eventbrite, and Pinterest
 
 
 ### Discussions
 
 [What do you use for prototyping?](https://news.layervault.com/stories/23818-ask-dn-what-do-you-use-for-prototyping) (Designer News)
 
-## Planning
-
-### IA planning
-
-https://www.jumpchart.com
 
 ## Wireframing
 
-* http://balsamiq.com/products/mockups + MyBalsamiq
-* https://moqups.com
-* http://www.bohemiancoding.com/sketch
+* [Balsamiq](http://balsamiq.com/products/mockups)
+* [Moqups](https://moqups.com/)
+* [Sketch](http://bohemiancoding.com/sketch/)
+ * [11 tips for prototyping with Sketch](http://mobileblog.invisionapp.com/11-tips-for-prototyping-with-sketch/)
  * Templates: http://sketchmine.co
-* http://uxpin.com
+* [UXPin](http://uxpin.com/)
 
-### Interactive wireframes / prototypes
 
-> :bulb: [This article](http://uxmag.com/articles/comparing-four-popular-page%E2%80%93based-interactive-prototyping-tools) proposes classifying prototyping tools in the following categories. It also reviews compares popular page-based tools.
-
-> * Page-based
-> * Layer-based
-> * Coding-based
+## Interactive prototypes / Click-through wireframes
 
 These tools allow you create wireframes/prototypes in the app itself, as well as making them interactive/clickable.
 
@@ -48,24 +40,28 @@ These tools allow you create wireframes/prototypes in the app itself, as well as
 * http://www.hotgloo.com
 * http://protytype.com
 
-
 ### BYOS (Bring Your Own Screens)
 
 You cannot create mock ups within the app, but using the tools above, you can make your screens clickable.
 
 * [Invision](http://www.invisionapp.com/)
-* [Solidify](http://www.solidifyapp.com/)
 * [Marvel](https://marvelapp.com/)
+* [Solidify](http://www.solidifyapp.com/), part of the Zurb suite
 
 #### Mobile app prototypes
 
-* https://www.flinto.com
-* https://popapp.in
-* http://proto.io
-* http://getlaunch.com
-* https://protosketch.uistencils.com
+* [Flinto](https://www.flinto.com/)
+* [Proto.io](http://proto.io/)
+* [Fluid](https://www.fluidui.com/)
+* [POP](https://popapp.in/)
+* [Launch](http://getlaunch.com/)
 
-## Responsive prototypes
+#### Tool reviews
+
+* [Page-based tools](http://uxmag.com/articles/comparing-four-popular-page%E2%80%93based-interactive-prototyping-tools/) (UXMag.com)
+* [Layer-based and code-based tools](https://uxmag.com/articles/comparing-popular-layer-based-and-code-based-prototyping-tools/) (UXMag.com)
+
+### Responsive prototypes
 
 * https://www.easel.io
  * [Includes support for Bootstrap](http://help.easel.io/guide/using-bootstrap)
@@ -118,28 +114,8 @@ http://usablica.github.io/front-end-frameworks/compare.html
 * https://github.com/Snugug/generator-sketch
 * https://github.com/google/web-starter-kit
 
-### Grid systems
-
-* gridsetapp.com
-
 
 ## Paper
 
 * http://www.tactiledesignkit.com
 * http://www.uistencils.com
-
-### Paper prototyping + mobile
-
-POP: Prototyping on Paper, popapp.in
-
-
-## Visual feedback tools
-
-* https://trackduck.com
-* http://www.notableapp.com
-* http://bounceapp.com
-* http://www.invisionapp.com/new-features/25/livecapture-bring-the-web-into-invision
-* http://bugmuncher.com
-* http://bugherd.com
-
-http://www.smashingmagazine.com/2014/09/16/essential-visual-feedback-tools-for-web-designers

@@ -1,6 +1,4 @@
-#Content strategy and planning
-
-## Content strategy
+# Content Strategy
 
 ### Articles
 
@@ -29,6 +27,15 @@
 * [Content Everywhere](http://rosenfeldmedia.com/books/content-everywhere/), Sara Wachter-Boettcher
 * [Content Strategy at Work](http://appropriateinc.com/book/), Margot Bloomstein
 * [Content Production Planning for Agencies](https://www.gathercontent.com/content-production-planning-for-agencies/) (eBook)
+* Content Strategy: Connecting the dots between business, brand, and benefits
+* Managing Enterprise Content: A Unified Content Strategy
+* The Language of Content Strategy
+* Information Architecture for the World Wide Web: Designing Large-Scale Web Sites
+* Content Audits and Inventories: A Handbook
+* A Practical Guide to Information Architecture
+* Author Experience: Bridging the gap between people and technology in content management
+* [The Content Strategy Toolkit](http://thecontentstrategytoolkit.com/), Meghan Casey
+
 
 ### Events
 
@@ -45,6 +52,8 @@
 
 ### Tools
 
+* [Blaze](https://www.blazecontent.com/), automated content inventory
+* [CAT (Content Analysis Tool)](https://www.content-insight.com/), Content inventory and analysis
 * [GatherContent](https://www.gathercontent.com/)
 * [After Editorially: The Search For Alternative Collaborative Online Writing Tools](http://www.smashingmagazine.com/2014/04/17/after-editorially-alternative-collaborative-online-writing-tools/) (smashingmagazine.com)
 * [Prismic](https://prismic.io/), content API and "writing room" tool
